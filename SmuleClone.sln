@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmuleClone", "SmuleClone\SmuleClone.csproj", "{3F9C8503-26C2-4ED3-A991-802CC70706CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F9C8503-26C2-4ED3-A991-802CC70706CD}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3F9C8503-26C2-4ED3-A991-802CC70706CD}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3F9C8503-26C2-4ED3-A991-802CC70706CD}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3F9C8503-26C2-4ED3-A991-802CC70706CD}.Release|iPhone.Build.0 = Release|iPhone
+		{3F9C8503-26C2-4ED3-A991-802CC70706CD}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3F9C8503-26C2-4ED3-A991-802CC70706CD}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{3F9C8503-26C2-4ED3-A991-802CC70706CD}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3F9C8503-26C2-4ED3-A991-802CC70706CD}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
